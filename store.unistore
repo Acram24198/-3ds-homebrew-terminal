@@ -4,7 +4,7 @@
     "author": "Jeremy Douglas",
     "description": "Custom homebrew for Universal-Updater",
     "file": "jeremy-store.unistore",
-    "url": "https://raw.githubusercontent.com/YOURNAME/terminalos-unistore/main/jeremy-store.unistore",
+    "url": "https://raw.githubusercontent.com/Acram24198/-3ds-homebrew-terminal/main/store.unistore",
     "version": 3,
     "revision": 1
   },
@@ -23,7 +23,7 @@
       "TerminalOS.3dsx": [
         {
           "type": "downloadFile",
-          "file": "https://github.com/YOURNAME/terminalos-unistore/releases/download/v1.0.0/terminalos_3dsx.3dsx",
+          "file": "https://github.com/Acram24198/-3ds-homebrew-terminal/releases/download/v1.0.0/terminalos_3dsx.3dsx",
           "output": "%3DSX%/terminalos_3dsx/terminalos_3dsx.3dsx"
         }
       ]
